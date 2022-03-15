@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092546334887",
+    "project_id": "contactmangementapp",
+    "storage_bucket": "contactmangementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092546334887:android:274c57c896c816d5980b82",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092546334887-m4upomfjte3mthoquk5mn54ica41hqv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASULDZkC80do1Ck1hrDMjf32FNMODcpfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092546334887-m4upomfjte3mthoquk5mn54ica41hqv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
